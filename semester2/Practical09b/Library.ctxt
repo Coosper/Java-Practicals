@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Library
+comment1.params=sizeIn
+comment1.target=Library(int)
+comment2.params=
+comment2.target=int\ getTotal()
+comment3.params=isbnIn
+comment3.target=Book\ getItem(java.lang.String)
+comment3.text=The\ getItem\ method\ takes\ in\ a\ book's\ unique\ ISBN\ number\ \r\nand\ returns\ the\ Book\ object\ associated\ with\ the\ ISBN.
+comment4.params=
+comment4.target=boolean\ isFull()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=isbnIn
+comment6.target=int\ search(java.lang.String)
+comment7.params=bookIn
+comment7.target=boolean\ add(Book)
+comment8.params=isbnIn
+comment8.target=boolean\ remove(java.lang.String)
+numComments=9

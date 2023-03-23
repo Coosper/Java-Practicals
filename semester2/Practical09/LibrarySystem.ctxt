@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LibrarySystem
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=myLibrary
+comment2.target=void\ addBook(Library)
+comment3.params=myLibrary
+comment3.target=void\ isItEmpty(Library)
+comment4.params=myLibrary
+comment4.target=void\ isItFull(Library)
+comment5.params=myLibrary
+comment5.target=void\ searchBook(Library)
+comment6.params=myLibrary
+comment6.target=void\ displayTotal(Library)
+numComments=7

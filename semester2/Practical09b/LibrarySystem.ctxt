@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=LibrarySystem
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=myLibrary
+comment10.target=void\ displayBookDetails(Library)
+comment2.params=myLibrary
+comment2.target=void\ addBook(Library)
+comment3.params=myLibrary
+comment3.target=void\ removeBook(Library)
+comment4.params=myLibrary
+comment4.target=void\ isItEmpty(Library)
+comment5.params=myLibrary
+comment5.target=void\ isItFull(Library)
+comment6.params=myLibrary
+comment6.target=void\ searchBook(Library)
+comment7.params=myLibrary
+comment7.target=void\ loanBook(Library)
+comment8.params=myLibrary
+comment8.target=void\ returnBook(Library)
+comment9.params=myLibrary
+comment9.target=void\ displayTotal(Library)
+numComments=11

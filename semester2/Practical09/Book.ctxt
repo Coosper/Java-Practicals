@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=isbnIn\ authorNameIn\ bookTitleIn\ bookCostIn
+comment1.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment10.params=bookCostIn
+comment10.target=void\ setBookCost(double)
+comment11.params=bookStatusIn
+comment11.target=void\ setBookStatus(boolean)
+comment2.params=
+comment2.target=java.lang.String\ getISBN()
+comment3.params=
+comment3.target=java.lang.String\ getAuthorName()
+comment4.params=
+comment4.target=java.lang.String\ getBookTitle()
+comment5.params=
+comment5.target=double\ getBookCost()
+comment6.params=
+comment6.target=boolean\ getBookStatus()
+comment7.params=isbnIn
+comment7.target=void\ setISBN(java.lang.String)
+comment8.params=authorNameIn
+comment8.target=void\ setAuthorName(java.lang.String)
+comment9.params=bookTitleIn
+comment9.target=void\ setBookTitle(java.lang.String)
+numComments=12

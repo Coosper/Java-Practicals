@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EmployeeTestB
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=employee1\ employee2\ employee3
+comment2.target=void\ details(Employee,\ Employee,\ Employee)
+numComments=3
